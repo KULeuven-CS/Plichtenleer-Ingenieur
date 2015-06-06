@@ -1,6 +1,7 @@
-# XXI
+# Plichtenleer van de ingenieur 
 
 Antwoorden voor de voorbeeldvragen van het vak [Plichtenleer van de ingenieur (B-KUL-H04E0A)](https://onderwijsaanbod.kuleuven.be/2014/syllabi/n/H04E0AN.htm).
+Als je tijd hebt of reeds vragen hebt opgelost aarzel niet om ze hier te delen zodat iedereen er van mee kan genieten.
 
 ## PDF
 
